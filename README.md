@@ -1,4 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>This is the title</h1>
+<p>This is hte body paragraph</p>
 
+</head>
+
+<body>
 # HTML Intro - Lab
 
 ## Introduction
@@ -65,3 +73,6 @@ the changes instantly.
 ## Summary
 
 Well done! You just practiced writing your own structured HTML document!
+
+</body>
+</html>
